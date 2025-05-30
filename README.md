@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Hafsa Abdi 👋🏾, 
 
 <!--
-**Hafsahabdi/Hafsahabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science graduate with a background in applied statistics, machine learning, and AI research.
 
-Here are some ideas to get you started:
+🧠 Passionate about turning data into actionable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🧪 Experienced in simulations, predictive modeling, and statistical analysis
+
+📊 Skilled in Python, R, SQL, Power BI, TensorFlow
+
+🤝 Open to data-driven projects and collaboration
+
+📫 Email: Habdi@mtu.edu
+🌐 Portfolio: https://sites.google.com/mtu.edu/hafsa-abdi
 -->
