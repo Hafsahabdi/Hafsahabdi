@@ -1,6 +1,6 @@
 ## Hey, I'm Hafsa Abdi 👋🏾, 
 
-<!--
+
 I'm a Data Science graduate with a background in applied statistics, machine learning, and AI research.
 
 🧠 Passionate about turning data into actionable insights
@@ -13,4 +13,4 @@ I'm a Data Science graduate with a background in applied statistics, machine lea
 
 📫 Email: Habdi@mtu.edu
 🌐 Portfolio: https://sites.google.com/mtu.edu/hafsa-abdi
--->
+
